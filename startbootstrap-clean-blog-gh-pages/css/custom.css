@@ -1,0 +1,32 @@
+header.masthead .page-heading{
+    color:red;
+}
+
+body{
+    color:green;
+}
+
+.post-preview a{
+    color:red;
+}
+
+.italicclass{
+    font-style:italic;
+}
+
+#mainNav .navbar-brand{
+    color:pink;
+    text-decoration:underline;
+    font-style:italic;
+    font-weight: bold;
+}
+
+#mainNav{
+    position:fixed;
+}
+
+.shrinkthediv{
+    float:right;
+    width:25%;
+}
+
